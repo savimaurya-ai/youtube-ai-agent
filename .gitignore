@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Secrets
+.env
+token.pickle
+client_secret*.json
+
+# History
+history.json
